@@ -1,0 +1,4 @@
+ close the connection 
+    c.close() 
+  sage 
+    

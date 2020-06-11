@@ -1,0 +1,2 @@
+ge sent to server 
+        c.send(message.encode('

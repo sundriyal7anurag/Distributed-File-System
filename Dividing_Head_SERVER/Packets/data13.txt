@@ -1,0 +1,2 @@
+('received_file', 'wb') as f:
+            print ('

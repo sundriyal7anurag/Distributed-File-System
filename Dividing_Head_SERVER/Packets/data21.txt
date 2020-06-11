@@ -1,0 +1,3 @@
+ to a file
+                f.write(data)
+         

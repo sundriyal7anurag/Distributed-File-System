@@ -1,0 +1,3 @@
+ame__ == '__main__': 
+    Main() 
+    # here it wo

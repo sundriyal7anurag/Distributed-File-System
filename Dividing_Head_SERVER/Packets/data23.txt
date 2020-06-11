@@ -1,0 +1,2 @@
+        f.close()
+        # print the received mes

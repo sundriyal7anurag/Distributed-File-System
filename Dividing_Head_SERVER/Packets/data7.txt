@@ -1,0 +1,4 @@
+puter 
+    c.connect((host,port)) 
+  
+    # messag

@@ -1,0 +1,3 @@
+a = c.recv(1024)
+                #f.write(data)
+  
